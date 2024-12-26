@@ -13,9 +13,6 @@ A modern, animated digital clock with dynamic theme changes based on the time of
 - Modern, minimalist design
 - Responsive layout
 
-## Demo
-
-[Live Demo](https://pixelcodegh.github.io/Clock-And-Date/)
 
 ## Installation
 
